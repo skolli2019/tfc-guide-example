@@ -5,11 +5,11 @@ variable "aws_region" {
 
 #variable "aws_access_key_id" {
 #  type    = string
-}
+#}
 
 #variable "aws_secret_access_key" {
 #  type    = string
-}
+#}
 
 variable "db_table_name" {
   type    = string
